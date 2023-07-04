@@ -13,7 +13,7 @@ This is a simple weather app that displays current weather information using the
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   https://github.com/zareenf01/weather-app.git
    
 Change into the project directory:
 -cd weather-app
