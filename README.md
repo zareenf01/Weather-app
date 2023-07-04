@@ -16,6 +16,7 @@ This is a simple weather app that displays current weather information using the
    https://github.com/zareenf01/weather-app.git
    
 Change into the project directory:
+
 -cd weather-app
 -Open the index.html file in your preferred web browser.
 
